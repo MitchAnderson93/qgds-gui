@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qgds-gui/static/css/main.8511b902.css",
+    "main.js": "/qgds-gui/static/js/main.fc087d47.js",
+    "static/js/453.534632bd.chunk.js": "/qgds-gui/static/js/453.534632bd.chunk.js",
+    "index.html": "/qgds-gui/index.html",
+    "main.8511b902.css.map": "/qgds-gui/static/css/main.8511b902.css.map",
+    "main.fc087d47.js.map": "/qgds-gui/static/js/main.fc087d47.js.map",
+    "453.534632bd.chunk.js.map": "/qgds-gui/static/js/453.534632bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8511b902.css",
+    "static/js/main.fc087d47.js"
+  ]
+}
