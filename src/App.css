@@ -1,0 +1,42 @@
+.App {
+  display: flex;
+}
+
+.sidebar {
+  width: 300px;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+.color-picker,
+.theme-selector {
+  margin-bottom: 20px;
+}
+
+.preview-area {
+  flex: 1;
+  padding: 20px;
+  transition: background-color 0.3s;
+}
+
+.preview-area.light-alt {
+  background-color: #f0f0f0;
+}
+
+.preview-area.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.preview-area.dark-alt {
+  background-color: #444;
+  color: #fff;
+}
+
+.css-variable {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  font-family: monospace;
+}
